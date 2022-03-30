@@ -1,5 +1,5 @@
 # Lock_In_Record
-A record of city lockdown in Shanghai under the pressure of BA.2 Variant.
+A record of citywide lockdown in Shanghai under the pressure of BA.2 Variant.
 
 ---
 
